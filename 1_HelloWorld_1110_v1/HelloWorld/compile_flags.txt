@@ -1,0 +1,3 @@
+-IC:\Users\Administrator\Documents\1_HelloWorld_1110_v1\HelloWorld
+-target
+mingw32

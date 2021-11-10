@@ -1,0 +1,1 @@
+main	C:\Users\Administrator\Documents\1_HelloWorld_1110_v1\HelloWorld\main.cpp	/^int main(int argc, char **argv)$/;"	function	line:3	signature:(int argc, char **argv)	returns:int 
